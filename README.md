@@ -92,4 +92,6 @@ Three pages: a cover, a market overview, and a price, value and ratings page wit
 
 ## Author
 
-[Your name] | [LinkedIn profile link]
+[Adham Ahmed] | [www.linkedin.com/in/adham-ahmed-ai
+
+]
