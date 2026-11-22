@@ -1,0 +1,193 @@
+﻿1,Maruti,Maruti Alto K10,Petrol,Hatchback,Budget,65.71,491000
+2,Maruti,Maruti Brezza,Petrol,SUV,Budget,101.65,1097500
+3,Mahindra,Mahindra Thar,Diesel,SUV,Mid,130,1478000
+4,Mahindra,Mahindra XUV700,Diesel,SUV,Mid,182.38,1888000
+5,Mahindra,Mahindra Scorpio-N,Diesel,SUV,Mid,172.45,1794500
+6,Toyota,Toyota Fortuner,Diesel,SUV,Premium,201.15,4098500
+7,Hyundai,Hyundai Creta,Diesel,SUV,Mid,113.45,1431000
+8,Tata,Tata Punch,Petrol,SUV,Budget,84.48,771000
+9,Mahindra,Mahindra Bolero,Diesel,SUV,Budget,74.96,979500
+10,Maruti,Maruti Swift,Petrol,Hatchback,Budget,88.5,738500
+11,Tata,Tata Nexon,Diesel,SUV,Budget,108.49,1084000
+12,Hyundai,Hyundai Venue,Petrol,SUV,Budget,118.41,1012500
+13,Kia,Kia Seltos,Diesel,SUV,Mid,113.43,1457000
+14,Hyundai,Hyundai Tucson,Diesel,SUV,Premium,183.72,3112000
+15,Tata,Tata Harrier,Diesel,SUV,Mid,167.67,1845000
+16,Maruti,Maruti Baleno,Petrol,Hatchback,Budget,88.5,810000
+17,Toyota,Toyota Innova Crysta,Diesel,MUV,Mid,148,2220000
+18,Maruti,Maruti Ertiga,Petrol,MUV,Budget,101.65,1057000
+19,Kia,Kia Sonet,Diesel,SUV,Budget,113.43,1064000
+20,Maruti,Maruti Dzire,Petrol,Sedan,Budget,88.5,771000
+21,Honda,Honda City 4th Generation,Petrol,Sedan,Budget,117.6,975000
+22,Land Rover,Land Rover Range Rover,Petrol,SUV,Luxury,345.98,32800000
+23,Tata,Tata Tiago,CNG,Hatchback,Budget,72,661000
+24,Hyundai,Hyundai i20,Petrol,Hatchback,Budget,118.36,928500
+25,Mahindra,Mahindra XUV300,Diesel,SUV,Budget,115,1124000
+26,MG,MG Hector,Diesel,SUV,Mid,167.68,1713000
+27,Tata,Tata Altroz,Diesel,Hatchback,Budget,88.77,827500
+28,Mahindra,Mahindra Scorpio Classic,Diesel,SUV,Mid,130.07,1374000
+29,Hyundai,Hyundai Verna,Diesel,Sedan,Budget,113.45,1243000
+30,Citroen,Citroen C3,Petrol,Hatchback,Budget,108.62,688500
+31,Honda,Honda City,Diesel,Sedan,Mid,97.89,1354500
+32,Maruti,Maruti Celerio,Petrol,Hatchback,Budget,65.71,612500
+33,Nissan,Nissan Magnite,Petrol,SUV,Budget,98.63,838000
+34,Renault,Renault KWID,Petrol,Hatchback,Budget,67.06,531500
+35,Land Rover,Land Rover Defender,Petrol,SUV,Premium,296.36,14986000
+36,Maruti,Maruti Alto 800,CNG,Hatchback,Budget,40.36,421000
+37,Hyundai,Hyundai Kona Electric,Electric,SUV,Mid,134.1,2393500
+38,Tata,Tata Tigor,CNG,Sedan,Budget,72.4,729500
+39,Renault,Renault Kiger,Petrol,SUV,Budget,98.63,830500
+40,Maruti,Maruti S-Presso,Petrol,Hatchback,Budget,65.71,512000
+41,MG,MG Astor,Petrol,SUV,Mid,138.08,1417500
+42,Lamborghini,Lamborghini Urus,Petrol,SUV,Luxury,641,32900000
+43,Honda,Honda Amaze,Diesel,Sedan,Budget,79.12,906500
+44,Renault,Renault Triber,Petrol,MUV,Budget,71,721500
+45,Hyundai,Hyundai Alcazar,Diesel,SUV,Mid,113.42,1807000
+46,Hyundai,Hyundai Aura,Petrol,Sedan,Budget,98.63,748000
+47,Volkswagen,Volkswagen Virtus,Petrol,Sedan,Mid,147.51,1457000
+48,Skoda,Skoda Slavia,Petrol,Sedan,Mid,147.52,1469000
+49,Maruti,Maruti Ignis,Petrol,Hatchback,Budget,81.8,653500
+50,Mercedes-Benz,Mercedes-Benz GLA,Diesel,SUV,Premium,187.74,4690000
+51,Volvo,Volvo XC90,Petrol,SUV,Premium,400,9527500
+52,Skoda,Skoda Kushaq,Petrol,SUV,Mid,147.51,1539000
+53,Maruti,Maruti XL6,Petrol,MUV,Mid,101.65,1292000
+54,Jeep,Jeep Wrangler,Petrol,SUV,Premium,268,5835000
+55,Maruti,Maruti Eeco,Petrol,MUV,Budget,61.68,528500
+56,Force,Force Gurkha,Diesel,SUV,Mid,89.84,1449000
+57,Maruti,Maruti S-Cross,Petrol,SUV,Budget,103.25,1093500
+58,Maruti,Maruti Ciaz,Petrol,Sedan,Budget,103.25,1048500
+59,Hyundai,Hyundai Santro,CNG,Hatchback,Budget,59.17,566000
+60,Volkswagen,Volkswagen Taigun,Petrol,SUV,Mid,147.51,1500000
+61,BMW,BMW X7,Diesel,SUV,Luxury,394.26,14800000
+62,Audi,Audi Q7,Petrol,SUV,Premium,335.25,8528500
+63,Toyota,Toyota Vellfire,Petrol,MUV,Premium,115.32,9260000
+64,Toyota,Toyota Hilux,Diesel,Pickup Truck,Premium,201.15,3539500
+65,MG,MG Gloster,Diesel,SUV,Premium,215.01,3550000
+66,Lamborghini,Lamborghini Aventador,Petrol,Coupe,Luxury,759.01,76250000
+67,BMW,BMW X1,Diesel,SUV,Premium,187.74,4300000
+68,BMW,BMW X5,Petrol,SUV,Premium,335.26,8790000
+69,Toyota,Toyota Camry,Petrol,Sedan,Premium,175.67,4435000
+70,Volkswagen,Volkswagen Tiguan,Petrol,SUV,Premium,187.74,3279500
+71,Rolls-Royce,Rolls-Royce Ghost,Petrol,Sedan,Luxury,563,74500000
+72,Skoda,Skoda Octavia,Petrol,Sedan,Premium,187.74,2835000
+73,Skoda,Skoda Superb,Petrol,Sedan,Premium,187.74,3504000
+74,Audi,Audi A6,Petrol,Sedan,Premium,241.3,6299000
+75,Volvo,Volvo XC40,Petrol,SUV,Premium,187.4,4450000
+76,Kia,Kia EV6,Electric,SUV,Premium,320.55,6245000
+77,Volvo,Volvo S90,Petrol,Sedan,Premium,246.58,6590000
+78,Honda,Honda Jazz,Petrol,Hatchback,Budget,88.5,916500
+79,Land Rover,Land Rover Range Rover Velar,Petrol,SUV,Premium,246.74,8941000
+80,Honda,Honda WR-V,Diesel,SUV,Budget,97.89,1071000
+81,Volvo,Volvo XC60,Petrol,SUV,Premium,246.74,6590000
+82,Skoda,Skoda Kodiaq,Petrol,SUV,Premium,187.74,3874000
+83,Audi,Audi A4,Petrol,Sedan,Premium,187.74,4654500
+84,BMW,BMW X3,Petrol,SUV,Premium,248.08,6490000
+85,BMW,BMW Z4,Petrol,Convertible,Premium,335,7840000
+86,BMW,BMW 3 Series Gran Limousine,Petrol,Sedan,Premium,254.79,5790000
+87,Nissan,Nissan Kicks,Petrol,SUV,Budget,153.87,1220000
+88,Mahindra,Mahindra Marazzo,Diesel,MUV,Mid,120.96,1430500
+89,Mercedes-Benz,Mercedes-Benz C-Class,Diesel,Sedan,Premium,261.49,5800000
+90,BMW,BMW X6,Petrol,Other,Luxury,335.25,10400000
+91,Mahindra,Mahindra Alturas G4,Diesel,SUV,Premium,178.49,3188000
+92,Bajaj,Bajaj Qute (RE60),CNG,Hatchback,Budget,10.8,361000
+93,Volkswagen,Volkswagen Vento,Petrol,Sedan,Mid,108.62,1222000
+94,Audi,Audi Q5,Petrol,SUV,Premium,245.59,6272500
+95,Ferrari,Ferrari Roma,Petrol,Coupe,Luxury,611.5,37600000
+96,MG,MG ZS EV,Electric,SUV,Mid,173.83,2394000
+97,BMW,BMW 7 Series,Petrol,Sedan,Luxury,281.6,15900000
+98,Mercedes-Benz,Mercedes-Benz E-Class,Diesel,Sedan,Premium,281.61,7600000
+99,BMW,BMW i4,Electric,Sedan,Premium,335.25,6990000
+100,Land Rover,Land Rover Range Rover Sport,Diesel,SUV,Luxury,345.98,17400000
+101,Jaguar,Jaguar F-TYPE,Petrol,Coupe,Premium,443.8,12556500
+102,Datsun,Datsun redi-GO,Petrol,Hatchback,Budget,67.05,447000
+103,BMW,BMW 2 Series,Diesel,Sedan,Premium,187.74,4300000
+104,Isuzu,Isuzu D-Max,Diesel,SUV,Mid,160.92,2000000
+105,BMW,BMW 5 Series,Diesel,Sedan,Premium,261.49,6950000
+106,Audi,Audi Q2,Petrol,SUV,Premium,187.74,4194000
+107,Mercedes-Benz,Mercedes-Benz GLS,Petrol,SUV,Luxury,549.81,18150000
+108,Porsche,Porsche Cayenne,Petrol,SUV,Luxury,550,16000000
+109,Citroen,Citroen C5 Aircross,Diesel,SUV,Premium,174.33,3301000
+110,Datsun,Datsun GO,Petrol,Hatchback,Budget,76.43,527000
+111,Volvo,Volvo S60,Petrol,Sedan,Premium,190,4590000
+112,Porsche,Porsche Macan,Petrol,SUV,Premium,434.49,11510500
+113,Jaguar,Jaguar XE,Petrol,Sedan,Premium,246.74,4757000
+114,BYD,BYD E6,Electric,MUV,Premium,93.87,2915000
+115,Jaguar,Jaguar F-Pace,Petrol,SUV,Premium,543.11,11544000
+116,Tata,Tata Tiago NRG,Petrol,Hatchback,Budget,84.48,690000
+117,Mahindra,Mahindra KUV 100 NXT,Petrol,Hatchback,Budget,82,701000
+118,Mini,Mini Cooper SE,Electric,Hatchback,Premium,181.03,5090000
+119,Audi,Audi e-tron,Electric,Coupe,Luxury,300,11000000
+120,Datsun,Datsun GO Plus,Petrol,MUV,Budget,76.43,563000
+121,Mercedes-Benz,Mercedes-Benz AMG G 63,Petrol,SUV,Luxury,576.63,25500000
+122,Mercedes-Benz,Mercedes-Benz AMG GT,Petrol,Coupe,Luxury,576.63,27100000
+123,Lexus,Lexus ES,Petrol,Sedan,Premium,214.56,6255000
+124,Porsche,Porsche Taycan,Electric,Wagon,Luxury,482.76,19350000
+125,Lexus,Lexus LS,Petrol,Sedan,Luxury,354,20650000
+126,Rolls-Royce,Rolls-Royce Cullinan,Petrol,SUV,Luxury,563,69500000
+127,Isuzu,Isuzu MU-X,Diesel,SUV,Premium,160.92,3645000
+128,BMW,BMW iX,Electric,SUV,Luxury,321.84,11600000
+129,Bentley,Bentley Flying Spur,Petrol,Sedan,Luxury,626,33150000
+130,Mercedes-Benz,Mercedes-Benz S-Class,Petrol,Sedan,Luxury,362.07,16450000
+131,Maserati,Maserati Quattroporte,Petrol,Sedan,Luxury,530,19150000
+132,Jaguar,Jaguar XF,Diesel,Sedan,Premium,201.15,7380000
+133,Mercedes-Benz,Mercedes-Benz GLC,Diesel,SUV,Premium,194,6500000
+134,Ferrari,Ferrari Portofino,Petrol,Convertible,Luxury,591.79,35000000
+135,Mercedes-Benz,Mercedes-Benz Maybach S-Class,Petrol,Sedan,Luxury,603.46,28500000
+136,Maserati,Maserati Levante,Petrol,SUV,Luxury,350,15650000
+137,Tata,Tata Yodha Pickup,Diesel,Pickup Truck,Budget,85,722500
+138,Aston Martin,Aston Martin DBX,Diesel,SUV,Luxury,542,38200000
+139,Bentley,Bentley Continental,Petrol,Convertible,Luxury,562,36000000
+140,Mercedes-Benz,Mercedes-Benz EQS,Electric,Sedan,Luxury,750.97,25400000
+141,Ferrari,Ferrari 812,Petrol,Convertible,Luxury,788.52,57500000
+142,Audi,Audi RS7,Petrol,Other,Luxury,591,22400000
+143,Mercedes-Benz,Mercedes-Benz AMG GLE 63 S,Petrol,SUV,Luxury,603.46,21500000
+144,McLaren,Mclaren GT,Petrol,Coupe,Luxury,611.51,45000000
+145,Mercedes-Benz,Mercedes-Benz G-Class,Diesel,SUV,Luxury,281.61,17200000
+146,Nissan,Nissan GT-R,Petrol,Coupe,Luxury,562.2,21200000
+147,BMW,BMW M2,Petrol,Coupe,Premium,410,8500000
+148,Mahindra,Mahindra E Verito,Electric,Sedan,Budget,41.57,929500
+149,Rolls-Royce,Rolls Royce Wraith,Petrol,Coupe,Luxury,591,67150000
+150,Mercedes-Benz,Mercedes-Benz V-Class,Diesel,MUV,Premium,161,10855000
+151,Porsche,Porsche 911,Petrol,Coupe,Luxury,641,24350000
+152,Porsche,Porsche Panamera,Petrol,Wagon,Luxury,680,21450000
+153,Mini,Mini Cooper Convertible,Petrol,Convertible,Premium,189.08,5150000
+154,Maserati,Maserati Ghibli,Petrol,Sedan,Luxury,330,15400000
+155,Lexus,Lexus NX,Petrol,SUV,Premium,187.74,6825000
+156,Land Rover,Land Rover Discovery Sport,Petrol,SUV,Premium,245.4,6834500
+157,Bentley,Bentley Bentayga,Petrol,SUV,Luxury,542,41000000
+158,Ferrari,Ferrari SF90 Stradale,Petrol,Coupe,Budget,769.31,450000
+160,Lexus,Lexus LC 500h,Petrol,Coupe,Luxury,295.02,23800000
+161,Maserati,Maserati GranTurismo,Petrol,Coupe,Luxury,460,40200000
+162,Ferrari,Ferrari F8 Tributo,Petrol,Coupe,Premium,710.74,10540000
+163,Mercedes-Benz,Mercedes-Benz GLE,Diesel,SUV,Luxury,325.8,14400000
+164,BMW,BMW M4 Competition,Petrol,Coupe,Luxury,502.88,19250000
+165,BMW,BMW 8 Series,Petrol,Coupe,Premium,600,4400000
+166,Mini,Mini Cooper Countryman,Petrol,SUV,Premium,189.08,4300000
+167,Mercedes-Benz,Mercedes-Benz A-Class Limousine,Diesel,Sedan,Luxury,147.51,19550000
+168,Maserati,Maserati GranCabrio,Diesel,Convertible,Luxury,460,15900000
+169,Mercedes-Benz,Mercedes-Benz AMG GLE 53,Petrol,Coupe,Luxury,435,32500000
+170,Aston Martin,Aston Martin Vantage,Petrol,Convertible,Premium,502.88,9950000
+171,Mercedes-Benz,Mercedes-Benz EQC,Electric,SUV,Premium,402.3,8247000
+172,Mercedes-Benz,Mercedes-Benz AMG C 43,Petrol,Coupe,Luxury,384.87,11100000
+173,Lexus,Lexus RX,Petrol,SUV,Budget,258.81,726000
+175,Jaguar,Jaguar I-Pace,Electric,SUV,Luxury,394.26,73500000
+176,Rolls-Royce,Rolls Royce Dawn,Petrol,Convertible,Luxury,563,20800000
+177,BMW,BMW X5 M,Petrol,SUV,Luxury,616.87,41000000
+178,Lamborghini,Lamborghini Huracan EVO,Petrol,Coupe,Premium,630.28,4000000
+179,Mini,Mini Cooper 3 DOOR,Petrol,Hatchback,Premium,189.08,8470000
+180,Mercedes-Benz,Mercedes-Benz CLS,Diesel,Coupe,Budget,241.3,898500
+182,Lexus,Lexus LX,Petrol,SUV,Premium,362,8700000
+183,Mercedes-Benz,Mercedes-Benz AMG GLC 43,Petrol,SUV,Budget,384.87,951500
+184,Mahindra,Mahindra Bolero Camper,Diesel,Pickup Truck,Premium,75.09,3274000
+185,Tata,Tata Nexon EV Max,Electric,SUV,Budget,141.04,523000
+186,Mahindra,Mahindra Bolero Neo,Diesel,SUV,Budget,100,1038000
+188,Audi,Audi e-tron GT,Electric,Coupe,Premium,522.99,5800000
+190,Mercedes-Benz,Mercedes-Benz AMG A 35,Petrol,Sedan,Mid,301.73,1989000
+191,Mercedes-Benz,Mercedes-Benz GLC Coupe,Diesel,Coupe,Premium,241.38,3132000
+194,Porsche,Porsche Cayenne Coupe,Petrol,SUV,Luxury,631.62,18900000
+197,Jeep,Compass Trailhawk,Diesel,SUV,Premium,170,5570000
+198,Jeep,Jeep Meridian,Diesel,SUV,Mid,167.67,1845000
+199,Mercedes-Benz,Mercedes-Benz AMG A 45 S,Petrol,Hatchback,Budget,415.71,829000
+201,MG,MG Hector Plus,Diesel,SUV,Mid,167.67,1845000
+202,Audi,Audi RS Q8,Petrol,SUV,Luxury,591.39,21700000
+203,Maruti,Maruti Alto 800 tour,Petrol,Hatchback,Budget,47.33,394000
